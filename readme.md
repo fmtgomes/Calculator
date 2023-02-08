@@ -39,3 +39,5 @@ A Calculadora faz operações básicas, com um botão "%", que mostra o resto de
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
+
+---------------------------------------
