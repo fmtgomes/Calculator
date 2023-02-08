@@ -18,7 +18,7 @@ Primeiro código de uma calculadora em javascript, com CSS usado do desafio #bor
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src="./assets/calculator.png" width="50%">
+  <img alt="projeto Habits" src="./assets/calculator.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
